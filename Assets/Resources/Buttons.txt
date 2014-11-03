@@ -1,0 +1,44 @@
+{"frames": {
+
+"buttonGeenDown.png":
+{
+	"frame": {"x":2,"y":2,"w":234,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":543,"y":707,"w":234,"h":59},
+	"sourceSize": {"w":815,"h":1224}
+},
+"buttonGeenUp.png":
+{
+	"frame": {"x":2,"y":63,"w":234,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":707,"w":234,"h":59},
+	"sourceSize": {"w":815,"h":1224}
+},
+"buttonGreyDown.png":
+{
+	"frame": {"x":2,"y":124,"w":234,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":543,"y":1019,"w":234,"h":59},
+	"sourceSize": {"w":815,"h":1224}
+},
+"buttonGreyUp.png":
+{
+	"frame": {"x":2,"y":185,"w":234,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":1019,"w":234,"h":59},
+	"sourceSize": {"w":815,"h":1224}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Buttons.png",
+	"format": "RGBA8888",
+	"size": {"w":238,"h":246},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:36ba4ed83e472a38b6f0d9c0a2443bcf:547ed1f4b4fe66660875ff7c9793a897:b2cf6150e315043d4eeca8a399ac9937$"
+}
+}
